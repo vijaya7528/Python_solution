@@ -1,0 +1,7 @@
+Q1. Why do we call Python as a general purpose and high-level programming language?
+
+
+Q2. Why is Python called a dynamically typed language?
+Because in python don't have any problem even if we don't declare the type of variable. 
+
+Q3. List some pros and cons of Python programming language?
